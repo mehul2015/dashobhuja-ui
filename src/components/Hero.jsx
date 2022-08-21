@@ -5,11 +5,11 @@ import bg3 from '../assets/bg-3.png';
 import React from 'react';
 
 const Container = styled.div`
-  height: 100vh;
+  height: 102vh;
   width: 100%;
   background-image: url(${bg1});
   background-repeat: no-repeat;
-  background-size: 900px;
+  background-size: 800px;
   display: flex;
   align-items: center;
   justify-content: center;

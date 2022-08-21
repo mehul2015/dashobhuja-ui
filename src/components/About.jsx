@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import bg6 from '../assets/bg-6.png';
 
 const Container = styled.div`
-  height: 70vh;
+  height: 90vh;
   width: 100vw;
   display: flex;
   flex-direction: column;
